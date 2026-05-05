@@ -1,5 +1,5 @@
 ---
-trigger: model_decision
+trigger: always_on
 description: 사용자가 지식베이스 또는 위키 기반으로 작업 상세 내용을 파악하라고 지시하였을 때 이 규칙을 채택.
 ---
 
